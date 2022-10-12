@@ -53,17 +53,31 @@ KELAS:Ti.22.A3
 
 <img width="945" alt="tahap 11" src="https://user-images.githubusercontent.com/115516688/195235793-c15254b9-2a10-48fd-9287-7b0e3399abc8.png">
 
-lalu buat repository baru dengan nama sesuai keinginan kalian contohnya "latihan VCS"
+13.lalu buat repository baru dengan nama sesuai keinginan kalian contohnya "latihan VCS"
 
 <img width="570" alt="tahap 12" src="https://user-images.githubusercontent.com/115516688/195235889-832efbc7-2517-40f9-8a73-9ac3c28dadd8.png">
 
-
+14.untuk menambahkan remote repository kita bisa menggunakan command "git remote add origin [url]" dan gunakan command "git push -u origin master" untuk mengirim perubahan pada local repository ke server
 
 <img width="367" alt="tahap 13" src="https://user-images.githubusercontent.com/115516688/195235906-2a7da1e2-e3f9-4e60-8573-d4a6f37f437e.png">
+
+15.gunakan "git push -u origin master" untuk upload ke github nya 
+
 <img width="377" alt="tahap 14" src="https://user-images.githubusercontent.com/115516688/195235924-3cd8a4fd-7948-43d8-9edc-6f7e818d0213.png">
+
+16.lalu kita bisa melakukan konfirmasi dengan memasukan password kita
+
 <img width="267" alt="tahap 15" src="https://user-images.githubusercontent.com/115516688/195235941-7c84eb5f-f890-4f4e-b0c5-c262e72e60e2.png">
+
+17.jika berhasil maka tampilannya akan seperti dibawah ini
+
 <img width="661" alt="tahap 16" src="https://user-images.githubusercontent.com/115516688/195235962-5cc9f36a-c45e-4c56-998f-390a40350ded.png">
+
+18.setelah itu gunakan "git clone" untuk mengcopy repository server
+
 <img width="368" alt="tahap 17" src="https://user-images.githubusercontent.com/115516688/195235992-fbfa04c4-4272-41bc-9bfa-726edd6b1169.png">
+
+SEKIAN TUTORIAL CARA MEMBUAT REPOSITORY
 
 
 
